@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2547500175
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3058ab6a81a5ba2a40b3bf89f7bbe877
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lua/NewModule/Payment.lua.bytes
+Dependencies: []

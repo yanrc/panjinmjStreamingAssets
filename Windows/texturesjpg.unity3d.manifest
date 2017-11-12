@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3017211071
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f581b34ad357f83beea14c58cd30ad04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Project/Textures/Unused/start_bg.jpg
+- Assets/Project/Textures/Unused/rule_bg.jpg
+- Assets/Project/Textures/Bg/MahjongBg.jpg
+- Assets/Project/Textures/Unused/zhanjiBg.jpg
+- Assets/Project/Textures/Unused/logo.jpg
+Dependencies: []

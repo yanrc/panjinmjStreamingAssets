@@ -1,0 +1,11 @@
+*.meta
+Windows/lua/.idea/
+*.iml
+Windows/lua/3rd/luabitop/doc/api.html
+Windows/lua/3rd/luabitop/doc/
+Windows/lua/3rd/luabitop/README
+Windows/lua/3rd/cjson/example3.json
+Windows/lua/3rd/cjson/example2.json
+Windows/lua/3rd/cjson/example1.json
+Windows/lua/3rd/cjson/example5.json
+Windows/lua/3rd/cjson/example4.json

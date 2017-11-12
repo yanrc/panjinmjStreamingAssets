@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1511914467
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e239234632051e203d4470289e5f352
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8d068741ae817c9b5c92580f37de87e3
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Project/Materials/laizi.mat
+- Assets/Project/Materials/GreyMaterial.mat
+Dependencies:
+- E:/workSpace/panjinmj/Assets/StreamingAssets/Windows/shaders.unity3d
+- E:/workSpace/panjinmj/Assets/StreamingAssets/Windows/texturespng.unity3d
