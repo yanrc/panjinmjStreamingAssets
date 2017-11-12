@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3206372464
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a056de2dcb614c813d700142c09c3de4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lua/games/tuidaohu/TuidaohuGame.lua.bytes
+- Assets/Lua/games/tuidaohu/TuidaohuRule.lua.bytes
+Dependencies: []

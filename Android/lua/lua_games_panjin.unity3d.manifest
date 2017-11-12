@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1433497748
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd1a7d00152ccc3d6c2b2a31509a97c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lua/games/panjin/PanjinGame.lua.bytes
+- Assets/Lua/games/panjin/PanjinRule.lua.bytes
+Dependencies: []

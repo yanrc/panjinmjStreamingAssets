@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 537337442
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7879900f78e7ae32bae4f205768bb29b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lua/MicPhone/MicPhone.lua.bytes
+- Assets/Lua/MicPhone/MessageBox.lua.bytes
+Dependencies: []

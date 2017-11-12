@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 779874003
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d02410b70be27b0702e6fc8d3aac0543
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lua/Vos/Account.lua.bytes
+- Assets/Lua/Vos/DateVo.lua.bytes
+- Assets/Lua/Vos/ClientRequest.lua.bytes
+- Assets/Lua/Vos/AvatarVO.lua.bytes
+- Assets/Lua/Vos/LoginVo.lua.bytes
+- Assets/Lua/Vos/APIS.lua.bytes
+- Assets/Lua/Vos/ChatRequest.lua.bytes
+Dependencies: []

@@ -9,3 +9,8 @@ Windows/lua/3rd/cjson/example2.json
 Windows/lua/3rd/cjson/example1.json
 Windows/lua/3rd/cjson/example5.json
 Windows/lua/3rd/cjson/example4.json
+Android/lua/3rd/cjson/
+Android/lua/.idea/
+Android/lua/3rd/luabitop/README
+Android/lua/3rd/luabitop/doc/api.html
+Android/lua/3rd/luabitop/doc/
