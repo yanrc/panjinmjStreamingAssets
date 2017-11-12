@@ -14,3 +14,7 @@ Android/lua/.idea/
 Android/lua/3rd/luabitop/README
 Android/lua/3rd/luabitop/doc/api.html
 Android/lua/3rd/luabitop/doc/
+iOS/lua/3rd/cjson/
+iOS/lua/3rd/luabitop/doc/
+iOS/lua/.idea/
+iOS/lua/3rd/luabitop/README

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2830328697
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f95b8848cf33639e806ff799769569fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lua/Record/DetailItem.lua.bytes
+- Assets/Lua/Record/RecordPanel.lua.bytes
+- Assets/Lua/Record/PlayRecordPanel.lua.bytes
+- Assets/Lua/Record/RecordItem.lua.bytes
+- Assets/Lua/Record/RecordPlayerItem.lua.bytes
+Dependencies: []
